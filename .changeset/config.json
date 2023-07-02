@@ -9,7 +9,7 @@
   "commit": false,
   "fixed": [
     [
-      "@commercetools-uikit/*"
+      "@mypackage/*"
     ]
   ],
   "access": "restricted",

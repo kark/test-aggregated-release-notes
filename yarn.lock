@@ -1956,23 +1956,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commercetools-uikit/hooks@workspace:packages/hooks":
-  version: 0.0.0-use.local
-  resolution: "@commercetools-uikit/hooks@workspace:packages/hooks"
-  dependencies:
-    "@babel/runtime": ^7.20.13
-    "@babel/runtime-corejs3": ^7.20.13
-    "@commercetools-uikit/utils": 16.4.0
-    "@testing-library/react": 12.1.5
-    "@types/raf-schd": ^4.0.1
-    lodash: 4.17.21
-    raf-schd: ^4.0.3
-    react: 17.0.2
-  peerDependencies:
-    react: 17.x
-  languageName: unknown
-  linkType: soft
-
 "@commercetools-uikit/utils@npm:16.4.0":
   version: 16.4.0
   resolution: "@commercetools-uikit/utils@npm:16.4.0"
@@ -2963,6 +2946,23 @@ __metadata:
   checksum: f0228435c0b12b4dec59a57c683f1431a3a0dea71640c73b231de27742ccaf5bb2f48d425184bdf330d24e940cb9ea7ecfc8b4ed5d3d6031f8132e251e728e80
   languageName: node
   linkType: hard
+
+"@mypackage/hooks@workspace:packages/hooks":
+  version: 0.0.0-use.local
+  resolution: "@mypackage/hooks@workspace:packages/hooks"
+  dependencies:
+    "@babel/runtime": ^7.20.13
+    "@babel/runtime-corejs3": ^7.20.13
+    "@commercetools-uikit/utils": 16.4.0
+    "@testing-library/react": 12.1.5
+    "@types/raf-schd": ^4.0.1
+    lodash: 4.17.21
+    raf-schd: ^4.0.3
+    react: 17.0.2
+  peerDependencies:
+    react: 17.x
+  languageName: unknown
+  linkType: soft
 
 "@nicolo-ribaudo/eslint-scope-5-internals@npm:5.1.1-v1":
   version: 5.1.1-v1

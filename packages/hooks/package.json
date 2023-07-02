@@ -1,5 +1,5 @@
 {
-  "name": "@commercetools-uikit/hooks",
+  "name": "@mypackage/hooks",
   "description": "A collection of React hooks used across some of the UI-Kit components.",
   "version": "16.4.0",
   "bugs": "https://github.com/commercetools/ui-kit/issues",
