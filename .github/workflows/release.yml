@@ -25,4 +25,4 @@ jobs:
 
       - name: Read the value
         id: read_release_version
-        run: echo "v${{ steps.release_version.outputs.VALUE }}"s
+        run: echo "::debug::v${{ steps.release_version.outputs.VALUE }}"
